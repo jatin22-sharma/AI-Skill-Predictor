@@ -1,4 +1,4 @@
-AI Skill Predictor Tool
+## AI Skill Predictor Tool
 Overview
 The AI Skill Predictor Tool is a full-stack learning analytics application that predicts a student's skill level based on test performance and behavior.
 
