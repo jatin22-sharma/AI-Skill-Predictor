@@ -24,7 +24,7 @@ Database: SQLite
 Machine Learning: Scikit-learn
 Data Analysis: Pandas, Plotly
 How to Clone the Repository
-git clone https://github.com/Mohnish4246/AI-Skill-Predictor.git
+git clone https://github.com/jatin22-sharma/AI-Skill-Predictor.git
 How to Run Locally
 Note :
 python 3.11 version is required to install the requirements.txt
